@@ -21,13 +21,12 @@ Download the following files to help you get started:
 The steps for this assignment are divided into the following subsections:
 
 1. Create the KaseiCoin Token Contract
-
+[](https://github.com/rickymersh/KaseiCoin/blob/main/kaseicoin.PNG)https://github.com/rickymersh/KaseiCoin/blob/main/kaseicoin.PNG
 2. Create the KaseiCoin Crowdsale Contract
-
+[](https://github.com/rickymersh/KaseiCoin/blob/main/crowdsdale.PNG)https://github.com/rickymersh/KaseiCoin/blob/main/crowdsdale.PNG
 3. Create the KaseiCoin Deployer Contract
-
 4. Deploy and Test the Crowdsale on a Local Blockchain
-
+[](https://github.com/rickymersh/KaseiCoin/blob/main/deployer.PNG)https://github.com/rickymersh/KaseiCoin/blob/main/deployer.PNG
 5. Optional: Extend the Crowdsale Contract by Using OpenZeppelin
 
     > **Note:** You can choose whether to complete the optional section. It’s designed to further your professional growth and development but won’t be graded as part of this assignment. If you choose to complete this section, you’ll use OpenZeppelin to extend the functionality of your crowdsale contract by adding time restrictions, refund capabilities, and a cap for the number of tokens that can be created. If you have any questions about how to complete the optional section, please reach out to your instructional team.
