@@ -21,7 +21,7 @@ Download the following files to help you get started:
 The steps for this assignment are divided into the following subsections:
 
 1. Create the KaseiCoin Token Contract
-[](https://github.com/rickymersh/KaseiCoin/blob/main/kaseicoin.PNG)https://github.com/rickymersh/KaseiCoin/blob/main/kaseicoin.PNG
+[!](https://github.com/rickymersh/KaseiCoin/blob/main/kaseicoin.PNG)(https://github.com/rickymersh/KaseiCoin/blob/main/kaseicoin.PNG
 2. Create the KaseiCoin Crowdsale Contract
 [](https://github.com/rickymersh/KaseiCoin/blob/main/crowdsdale.PNG)https://github.com/rickymersh/KaseiCoin/blob/main/crowdsdale.PNG
 3. Create the KaseiCoin Deployer Contract
